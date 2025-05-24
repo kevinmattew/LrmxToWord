@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "干部任免审批表转换", "干部任免审批表转换.csproj", "{CEAB5984-B629-4663-884A-80BEDD2BEBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEAB5984-B629-4663-884A-80BEDD2BEBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAB5984-B629-4663-884A-80BEDD2BEBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAB5984-B629-4663-884A-80BEDD2BEBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAB5984-B629-4663-884A-80BEDD2BEBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {550D96D3-B95A-4732-ABC5-9993C9EB0B8A}
+	EndGlobalSection
+EndGlobal
